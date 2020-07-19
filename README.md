@@ -51,6 +51,7 @@ This project is licensed under the GNU General Public License 3 - see the [LICEN
 
 ## References
 
+Coming very soon
 Cell-ID: gene signature extraction and cell identity recognition at individual cell level. Cortal A, Martignetti L, Six E, Rausell A. BioRxiv 2020
 
 ## Companion Github repository CellIDPaperScript
