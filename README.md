@@ -56,7 +56,7 @@ Cell-ID: gene signature extraction and cell identity recognition at individual c
 
 ## Companion Github repository CellIDPaperScript
 
-The Cell-ID software and the associated preprint comes with a companion Github repository where all R scripts and intermediate data representations required to reproduce all figures in the manuscript are provided:  https://github.com/RausellLab/CellIDPaperScript
+Upon publication of the Cell-ID paper, a companion Github repository with all R scripts and intermediate data representations required to reproduce all figures in the manuscript will be released. Stay tunned!
 
-# 
+## Updates 
 You may follow us in Twitter for regular updates: https://twitter.com/AntonioRausell
