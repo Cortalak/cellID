@@ -5,7 +5,7 @@ R package for gene signature extraction and cell-identity recognition at individ
 
 ----------------------------------------
 
-Welcome to the official Github repository of the **Cell-ID** software presented at the BioRxiv preprint "Cell-ID: gene signature extraction and cell identity recognition at individual cell level". Cortal A, Martignetti L, Six E, Rausell A. BioRxiv 2020.
+Welcome to the official Github repository of the **Cell-ID** software presented at the BioRxiv preprint [Cell-ID: gene signature extraction and cell identity recognition at individual cell level. Cortal A, Martignetti L, Six E, Rausell A. BioRxiv 2020](https://www.biorxiv.org/content/10.1101/2020.07.23.215525v1)
 
 ## Overview
 
@@ -51,8 +51,7 @@ This project is licensed under the GNU General Public License 3 - see the [LICEN
 
 ## References
 
-Coming very soon
-Cell-ID: gene signature extraction and cell identity recognition at individual cell level. Cortal A, Martignetti L, Six E, Rausell A. BioRxiv 2020
+Cell-ID: gene signature extraction and cell identity recognition at individual cell level. Cortal A, Martignetti L, Six E, Rausell A. BioRxiv 2020 doi: [https://doi.org/10.1101/2020.07.23.215525](https://doi.org/10.1101/2020.07.23.215525)
 
 ## Companion Github repository CellIDPaperScript
 
